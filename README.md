@@ -12,21 +12,21 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.linux.org/" target="_blank"> <img src="./svg/linux.svg" alt="linux" width="50" height="50"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="./svg/docker.svg" alt="docker" width="50" height="50"/> </a> 
-  <a href="https://kubernetes.io" target="_blank"><img src="./svg/kubernetes.svg" alt="kubernetes" width="50" height="50"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://dbkernel-1306518848.cos.ap-beijing.myqcloud.com/icons/linux.svg" alt="linux" width="50" height="50"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://dbkernel-1306518848.cos.ap-beijing.myqcloud.com/icons/docker.svg" alt="docker" width="50" height="50"/> </a> 
+  <a href="https://kubernetes.io" target="_blank"><img src="https://dbkernel-1306518848.cos.ap-beijing.myqcloud.com/icons/kubernetes.svg" alt="kubernetes" width="50" height="50"/> </a>
 </p>
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="./svg/cplusplus.svg" alt="c" width="50" height="50"/> </a>
-  <a href="https://golang.org" target="_blank"> <img src="./svg/golang.svg" alt="go" width="50" height="50"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="./svg/python.svg" alt="python" width="50" height="50"/> </a>
-  <a href="https://www.rust-lang.org/" target="_blank"> <img src="./svg/rust.svg" alt="rust" width="50" height="50"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://dbkernel-1306518848.cos.ap-beijing.myqcloud.com/icons/cplusplus.svg" alt="c" width="50" height="50"/> </a>
+  <a href="https://golang.org" target="_blank"> <img src="https://dbkernel-1306518848.cos.ap-beijing.myqcloud.com/icons/golang.svg" alt="go" width="50" height="50"/> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://dbkernel-1306518848.cos.ap-beijing.myqcloud.com/icons/python.svg" alt="python" width="50" height="50"/> </a>
+  <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://dbkernel-1306518848.cos.ap-beijing.myqcloud.com/icons/rust.svg" alt="rust" width="50" height="50"/></a>
 </p>
 <p>
-  <a href="https://www.mysql.com/" target="_blank"><img src="./svg/mysql.svg" alt="MySQL" width="50" height="50"/>
-  <a href="https://redis.io/" target="_blank"><img src="./svg/redis.svg" alt="Redis" width="50" height="50"/>
-  <a href="https://www.postgresql.org/" target="_blank"> <img src="./svg/postgresql.svg" alt="PostgreSQL" width="50" height="50"/></a> 
-  <a href="https://clickhouse.tech/" target="_blank"> <img src="./svg/clickhouse.svg" alt="ClickHouse" width="50" height="50"/></a> 
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://dbkernel-1306518848.cos.ap-beijing.myqcloud.com/icons/mysql.svg" alt="MySQL" width="50" height="50"/>
+  <a href="https://redis.io/" target="_blank"><img src="https://dbkernel-1306518848.cos.ap-beijing.myqcloud.com/icons/redis.svg" alt="Redis" width="50" height="50"/>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://dbkernel-1306518848.cos.ap-beijing.myqcloud.com/icons/postgresql.svg" alt="PostgreSQL" width="50" height="50"/></a> 
+  <a href="https://clickhouse.tech/" target="_blank"> <img src="https://dbkernel-1306518848.cos.ap-beijing.myqcloud.com/icons/clickhouse.svg" alt="ClickHouse" width="50" height="50"/></a> 
 </p>
   
 
