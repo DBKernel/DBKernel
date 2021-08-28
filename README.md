@@ -2,7 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=dbkernel.readme)
 
 
-<h1 align="center">Hi 👋, I'm DBKernel</h1>
+<h1 align="center">Hi 👋, I'm Wenshuang Lu</h1>
 <h3 align="center">A Senior Database Software Development Engineer From China</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dbkernel" alt="dbkernel" /></a> </p>
@@ -32,7 +32,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dbkernel&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="dbkernel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DBKernel&show_icons=true&locale=en&count_private=true&theme=radical" alt="dbkernel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dbkernel&show_icons=true&locale=en&count_private=true&theme=radical" alt="dbkernel" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dbkernel&count_private=true&theme=radical" alt="dbkernel" /></p>
 
